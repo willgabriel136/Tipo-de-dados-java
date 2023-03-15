@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Will {
+public class exercicio1 {
    
     public static void main(String[] args){
     
