@@ -1,8 +1,8 @@
-package tarefa;
+
 
 import java.util.Scanner;
 
-public class SalarioDoWill {
+public class Exercicio1 {
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
